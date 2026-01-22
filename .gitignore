@@ -7,7 +7,7 @@ venv/
 env/
 
 # Environment variables (inside rag folder)
-rag/.env
+./rag/.env
 
 # FAISS index files (generated)
 rag/index/faiss.index
