@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+
+# Environment variables (inside rag folder)
+rag/.env
+
+# FAISS index files (generated)
+rag/index/faiss.index
+rag/index/chunks.json
+
+# OS files
+.DS_Store
+Thumbs.db
