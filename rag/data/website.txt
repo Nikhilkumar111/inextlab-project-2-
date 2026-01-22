@@ -1,0 +1,18 @@
+Company Name: iNextLabs
+Founded: 2020
+Headquarters: Singapore
+Office Locations: India, Malaysia, United States
+
+Company Overview:
+iNextLabs is a Generative AI-focused company that builds intelligent AI agents on the inFlow platform. These agents can think, plan, and act to automate enterprise workflows.
+
+Platform:
+inFlow Platform – used to build intelligent AI agents.
+
+Main Products:
+• inFlow DocsAI – automates document-heavy workflows by extracting, summarizing, and classifying data.
+• inFlow InsightsAI – analyzes business data, predicts trends, and provides actionable recommendations.
+• inFlow EngageAI – provides multilingual AI agents for WhatsApp, web, and voice.
+
+Mission:
+To empower businesses to harness AI to redefine customer experiences and optimize operations.
